@@ -1,0 +1,46 @@
+body {
+    background-color: white;
+}
+
+.main{
+    color: rgb(17, 62, 100);
+}
+
+.header{
+    text-align: center;
+    background-color: rgb(17, 62, 100);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+.table{
+    width: 100%;
+}
+
+.info-section{
+    background-color: rgb(86, 161, 219);
+}
+
+.white-content{
+    color: white;
+}
+
+.social-media-link{
+    text-decoration: none;
+    color: white;
+}
+
+.bold-text{
+    font-weight: bold;
+}
+
+.header div{
+    display: inline-block;
+}
+
+.Perimg{
+
+    margin-right: 30px;
+    width:100px;
+}
